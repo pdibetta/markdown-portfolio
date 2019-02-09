@@ -1,4 +1,3 @@
-**Here are some lists**
 ### Favorite Bands
 * Beatles
 * Grand Funk Railroad
